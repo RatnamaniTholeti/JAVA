@@ -13,22 +13,22 @@ public class Hiii {
 			boolean c = true;
 			boolean d = false;
 			
-      System.out.println(~a);
+                        System.out.println(~a);
 			System.out.println(~b);
 			System.out.println(!c);
 			System.out.println(!d);
-      int s = -9;
+                         int s = -9;
 			System.out.println(~s);
       
 			//ARTHIMETIC OPERATORS//
-      System.out.println(a+b);
+                        System.out.println(a+b);
 			System.out.println(a-b);
 			System.out.println(a*b);
 			System.out.println(a/b);
 			System.out.println(a%b);
 			
 			System.out.println(10*10/5+3-1*4/2);
-			
+		       			
 		
 			
 			
